@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamad Alfin Pratama</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+ <h4>
 <a href="https://mangapp.me">
-  <h4>Cek Here Comics App with bahasa indonesia</h4>
+ Cek Here Comics App with bahasa indonesia
 </a>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfinpratamaa&label=Profile%20views&color=0e75b6&style=flat" alt="alfinpratamaa" /> </p>
 
