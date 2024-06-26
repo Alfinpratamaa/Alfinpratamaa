@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
  <h4>
-<a href="https://mangapp.me">
+<a href="https://mangapp.me" align="center">
  Cek Here Comics App with bahasa indonesia
 </a>
 </h4>
