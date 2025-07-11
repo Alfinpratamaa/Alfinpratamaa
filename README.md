@@ -7,6 +7,12 @@
 </a>
 </h4>
 
+ <h4>
+<a href="https://evrea.tech" align="center">
+ My personal Portfolio
+</a>
+</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfinpratamaa&label=Profile%20views&color=0e75b6&style=flat" alt="alfinpratamaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfinpratamaa" alt="alfinpratamaa" /></a> </p>
@@ -15,13 +21,13 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, Tailwindcss**
 
-- 👨‍💻 All of my projects are available at [https://muhamadalfinpratama.vercel.app](https://muhamadalfinpratama.vercel.app)
+- 👨‍💻 All of my projects are available at [https://evrea.tech/about](https://evrea.tech/about)
 
 - 💬 Ask me about **react, next.js, tailwind**
 
 - 📫 How to reach me **muhamadalfinpratamaa@gmail.com**
 
-- 📄 Know about my experiences [https://muhamadalfinpratama.vercel.app/cv-alfin.pdf](https://muhamadalfinpratama.vercel.app/cv-alfin.pdf)
+- 📄 Know about my experiences [https://evrea.tech/cv-alfin.pdf](https://evrea.tech/cv-alfin.pdf)
 
 - ⚡ Well .... **I think need a Joob (❁´◡`❁)**
 
