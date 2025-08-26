@@ -23,6 +23,8 @@
 
 - 👨‍💻 All of my projects are available at [https://evrea.tech/about](https://evrea.tech/about)
 
+- read my comics web apps at [https://mangaloom.app](https://mangaloom.app)
+
 - 💬 Ask me about **react, next.js, tailwind**
 
 - 📫 How to reach me **muhamadalfinpratamaa@gmail.com**
