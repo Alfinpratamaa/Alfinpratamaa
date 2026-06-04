@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Alfin Pratama</h1>
 <p>
- Cek Web <a href="https://nimeloom.site" >https://nimeloom.site</a> disini buat baca anime lengkap bahasa indonesia tanpa iklan :D
+ Cek Web <a href="https://nimeloom.site" >https://www.nimeloom.site</a> disini buat baca anime lengkap bahasa indonesia tanpa iklan :D
 <a href="https://nimeloom.site" align="center">
 nimeloom
 </a>
